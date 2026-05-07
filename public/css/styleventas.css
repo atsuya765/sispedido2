@@ -1,0 +1,10 @@
+.desc[type=number]::-webkit-inner-spin-button,
+.desc[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.cant[type=number]::-webkit-inner-spin-button,
+.cant[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
